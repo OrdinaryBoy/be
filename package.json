@@ -1,0 +1,27 @@
+{
+  "name": "be",
+  "version": "0.0.1",
+  "description": "mvvm",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "eslint": "eslint --ext .js src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuge9413/be.git"
+  },
+  "keywords": [
+    "be"
+  ],
+  "author": "yuge9413",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuge9413/be/issues"
+  },
+  "homepage": "https://github.com/yuge9413/be#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.5.0"
+  }
+}
